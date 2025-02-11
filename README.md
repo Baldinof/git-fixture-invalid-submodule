@@ -1,1 +1,1 @@
-# test-invalid-submodule
+# git-fixture-invalid-submodule 
